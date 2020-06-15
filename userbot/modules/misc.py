@@ -92,7 +92,7 @@ async def bot_community(community):
 async def bot_support(wannahelp):
     """ For .support command, just returns the group link. """
     await wannahelp.edit(
-        "Join this Group to Get Support: [Aone-ID Support](https://t.me/aoneid_support)" 
+        "Join this Group to Get Support: [Aone-ID Support](https://t.me/aoneid_support)") 
 
 
 
